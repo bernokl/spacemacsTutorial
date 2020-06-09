@@ -1,0 +1,52 @@
+# -*- ii: emacs; -*-
+#+TITLE: Emacs + Spacemacs + Kubemacs Tutorial with bb
+#+AUTHOR: Caleb Woodbine <caleb@ii.coop>
+#+AUTHOR: Berno Kleinhans <bb@ii.coop>
+
+* Titles
+** Subtitle 1
+*** Subtitle 2
+**** Subtitle 3
+***** Subtitle 4
+****** Subtitle 5
+******* Subtitle 6
+        
+* Codeblocks
+#+name: Shell echo
+#+begin_src sh
+echo "This is a test"
+#+end_src
+
+#+RESULTS: Shell echo
+#+begin_example
+This is a test
+#+end_example
+
+#+name: Go test
+#+begin_src go
+  package main
+
+  import (
+    "fmt"
+  )
+
+  func main() {
+    fmt.Println("Hello")
+  }
+#+end_src
+
+#+RESULTS: Go test
+#+begin_src go
+Hello
+#+end_src
+
+#+begin_src python
+  print("Hello")
+#+end_src
+
+#+RESULTS:
+#+begin_src python
+None
+#+end_src
+
+Go to [[https://golang.org][golang.org]].
