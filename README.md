@@ -38,6 +38,10 @@ func main() {
 }
 ```
 
+```go
+Hello
+```
+
 ```python
 print("Hello")
 ```
@@ -45,3 +49,5 @@ print("Hello")
 ```python
 None
 ```
+
+Go to [golang.org](https://golang.org). Go to [the repo](https://github.com/bernokl/spacemacsTutorial).
