@@ -50,4 +50,4 @@ print("Hello")
 None
 ```
 
-Go to [golang.org](https://golang.org). Go to [the repo](https://github.com/bernokl/spacemacsTutorial).
+Link:[golang.org](https://golang.org). Link:[the repo](https://github.com/bernokl/spacemacsTutorial).

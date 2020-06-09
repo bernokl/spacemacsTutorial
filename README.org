@@ -49,5 +49,6 @@ Hello
 None
 #+end_src
 
-Go to [[https://golang.org][golang.org]].
-Go to [[https://github.com/bernokl/spacemacsTutorial][the repo]].
+Link:[[https://golang.org][golang.org]].
+Link:[[https://github.com/bernokl/spacemacsTutorial][the repo]].
+
